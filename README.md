@@ -9,6 +9,8 @@
 - Pong
 
 <br>
-## Linguagem de Programação
+<h2>
+  Linguagem de Programação
+</h2>
 
 - Python
